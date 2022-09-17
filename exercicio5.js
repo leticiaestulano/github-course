@@ -1,5 +1,5 @@
 nota1 = 7
-nota2 = 8
+nota2 = 9
 media = (nota1 + nota2) / 2
 
 if (media >= 7)
